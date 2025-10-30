@@ -7,6 +7,7 @@ namespace PersonalFinancialTracker
     public partial class Form1 : Form
     {
         private TextBox txtAmount;
+        private TextBox grossAmount;
         private ComboBox cmbType;
         private TextBox txtDescription;
         private ListBox lstEntries;
